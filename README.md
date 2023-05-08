@@ -28,7 +28,7 @@ Go to the project directory
 ### Remote
 To use remotely, just access the link:
 
-  - [Word Counter](https://github.com/IanOliveiraSilva)
+  - [Word Counter](http://ianoliveirasilva.github.io/WordCounter/)
 
 
 
